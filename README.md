@@ -1,1 +1,1 @@
-# powe BI projects
+# power BI projects
